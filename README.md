@@ -6,6 +6,7 @@
 - Reftrofit
 - MVVM Pattern
 - Repository Pattern
+- Kotlin Coroutines
 
 # Screenshot
 ![image](https://github.com/shaqna/Meal-Recipe/assets/85094525/72c81688-1069-480d-b1ce-1a3c299194a4)
