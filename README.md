@@ -1,12 +1,27 @@
+# Meal Recipe
+
+### Date Created
+December, 2023
+
+### Description
+Meal Recipe application is mobile application that can use for searching recipe by category or country or it can search by food. The app provide youtube video tutorial for cooking.
+
 # Tech Stach
-- Kotlin
-- Kotlin Flow
-- Koin Injection
-- Room
-- Reftrofit
-- MVVM Pattern
-- Repository Pattern
-- Kotlin Coroutines
+- Programming language
+  - Kotlin
+- Reactive Programming
+  - Kotlin Flow
+- Dependency Injection
+  - Koin Injection
+- Local database
+  - Room
+- Remote Client
+  - Reftrofit
+- Design pattern
+  - MVVM Pattern
+  - Repository Pattern
+- Asyncronous technique
+  - Kotlin Coroutines
 
 # Screenshot
 ![image](https://github.com/shaqna/Meal-Recipe/assets/85094525/72c81688-1069-480d-b1ce-1a3c299194a4)
